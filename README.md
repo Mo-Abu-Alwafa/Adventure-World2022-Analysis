@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="AdventureWorksLo.jpg
-" alt="Web App Sample" width="300"/>
+  <img src="AdventureWorksLo.jpg" alt="Web App Sample" width="600"/>
 </p>
 
 ---
