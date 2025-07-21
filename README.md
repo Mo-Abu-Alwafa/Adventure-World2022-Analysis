@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="AdventureWorksLo.jpg
+" alt="Web App Sample" width="600"/>
+</p>
+
+---
+
 # Adventure Works Sales Analysis (2022)
 
 **Data Source:** Adventure Works 2022
